@@ -1,0 +1,32 @@
+main.container {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.main-nav {
+    width: 100%;
+}
+
+footer p {
+   margin: 0; 
+}
+
+.card-title {
+    color: blue;
+}
+
+.card-body {
+    min-height: 120px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+form {
+    width: 70%;
+}
+
+select {
+    height: 55% !important;
+}
